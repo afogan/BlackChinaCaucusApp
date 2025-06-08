@@ -2,6 +2,11 @@
 
 A simple React Native app (built with Expo) that loads the Black China Caucus website using WebView.
 
+## 📸 Screenshot
+
+![App Screenshot](./simulator.png)
+
+
 ## 🔨 Features
 - Displays blackchinacaucus.org inside a mobile container
 - Built for iOS (Simulator-ready)
