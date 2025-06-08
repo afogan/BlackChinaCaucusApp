@@ -4,8 +4,7 @@ A simple React Native app (built with Expo) that loads the Black China Caucus we
 
 ## 📸 Screenshot
 
-![App Screenshot](./simulator.png)
-
+<img src="./simulator.png" alt="App Screenshot" width="300"/>
 
 ## 🔨 Features
 - Displays blackchinacaucus.org inside a mobile container
